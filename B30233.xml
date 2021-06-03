@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange and miraculous news from St. Omers being an account of the wonderful life and death of a popish saint and martyr named Mr. Edmund Gennings, priest who was executed for treason some years since : with a relation of the miracles at and after his death : wherein may be observed what lying wonders the credulous papists are made to believe, both against sense and reason.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B30233</idno><idno type="EEBO-CITATION">9126856</idno>
+  <idno type="VID">204356</idno>
+  <idno type="EEBO-PROQUEST">2264211214</idno>
+  
+            <idno type="STC">Wing S5822</idno>
+            <idno type="OCLC">09126856</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B30233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204356)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1295:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange and miraculous news from St. Omers being an account of the wonderful life and death of a popish saint and martyr named Mr. Edmund Gennings, priest who was executed for treason some years since : with a relation of the miracles at and after his death : wherein may be observed what lying wonders the credulous papists are made to believe, both against sense and reason.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Published by their own copy which was printed by authority at St. Omers."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Geninges, Edmund, 1567-1591.</term>
+               <term type="topical_term">Catholics --  Great Britain --  Biography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:204356:1"/>
+            <pb n="1" facs="tcp:204356:2"/>
+            <head>
+               <hi>Strange and Miraculous News from St.</hi> Omers: Being an Account of the Wonderful Life and Death of a <hi>Popish Saint</hi> and <hi>Martyr,</hi> named Mr. <hi>Edmund Gennings, <hi>Priest,</hi> who was Executed for Treason some Years since: With a Relati<g ref="char:EOLhyphen"/>on of the <hi>Miracles</hi>
+               </hi> at, and after his Death.</head>
+            <head>Wherein may be observed, what Lying Wonders the Credulous <hi>Pa<g ref="char:EOLhyphen"/>pists</hi> are made to believe, both against Sense and Reason.</head>
+            <head>Published by their own Copy, which was Printed by Authority at St. <hi>Omers.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>For without are Dogs, and Sorcerers, and Whoremongers, and Murderers, and Idolaters, and whosoever loveth and maketh a Lye:</hi>
+                  </p>
+                  <bibl>Revel. 22.15.</bibl>
+               </q>
+            </epigraph>
+            <p>IT is the peculiar Happiness of the Saints and Martyrs of the <hi>Romish</hi>-Church, that though many of them live and dye Villains, Traytors, and Murtherers; yet several strange and miraculous Things have been effected by their Relicts, and dead Bodies: And this their ignorant Layety are bound to believe as firmly, as the Articles of their Faith. And such stuff has been imposed upon them, not only in the utter Darkness of <hi>Popery,</hi> when the <hi>Mathematical Arts</hi> were counted Conjuring, and a Bishop was burnt for affirming, There must needs be some such Countrey as <hi>America.</hi> But even to this day, they are made to be<g ref="char:EOLhyphen"/>lieve the same Fooleries: For Mr. <hi>Dugdale</hi> in the Tryal of the late <hi>Jesuits,</hi> tells us, That Mr. <hi>Gaven</hi> having used many Arguments, by abusing Scripture, to demonstrate the Law<g ref="char:EOLhyphen"/>fulness of Killing Kings, or any others, who should be a hindrance to the Advancing their Cause: He added this; That the Relicts of <hi>F. Garnet,</hi> one of the <hi>Gun-Powder Traytors,</hi> who was Executed for the same, at the <hi>West-End</hi> of St. <hi>Pauls,</hi> had wrought many Wonders and Miracles beyond Sea; which we may somewhat wonder at, since he was so Inge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uous, as to acknowledge himself Guilty of that Horrid Design, which those of the same Faction have now the Impudence to deny.</p>
+            <p>Among the rest, we have met with the Life of a special Saint, who was Miraculous both Living and Dying; Printed by the Brethren at St. <hi>Omers,</hi> that Seminary of <hi>Treason</hi> and Ro<g ref="char:EOLhyphen"/>bellion, of which we shall give you a brief Account in their own Words.</p>
+            <p>
+               <hi>Edmund Gennings,</hi> alias <hi>Ironmonger,</hi> was born some where in <hi>England;</hi> and it is Mo<g ref="char:EOLhyphen"/>pable, had a father as well as a Mother: But hear what out Author says of it.</p>
+            <p>I had thought to have declared at large the Birth and Education of this our thrice hap<g ref="char:EOLhyphen"/>py Martyr, leaving the World to judge of his Miraculous Alteration; but for divers respicts, Perswasion forceth me to Silence at this time: And behold, <hi>in <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ne,</hi> at the very first I will not say a Miracle, yet at least a Wonder; For scarce had Natore cleansed his silly Corps from such Uncleanness as is brought (<hi>a Mateynis Viscibus</hi>) from his Mothers Bow<g ref="char:EOLhyphen"/>els, but presently within an Hour or two, appeared a sign of his Magnanimity, and great Courage, which he was afterward to set forth to the Ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w of the whole Word; and this it was: The Mid wife, and other Women, having accomplished every thing belonging to their Office in the Birth of the Infant, the Nurse sate her down by the Fire; to give the Child his first Food; and directing her Dugg into its Mouth, he presently bit the same; at which unexpected pain, the simple Woman sent forth loud Shreiks and Cryes; which she no sooner had done, but the Child bit her again: which unwonted Accident so beref<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Nurse of all Patience, that she was ready to have done the Child some Mischief, had not the Women, then accompanying her Mother, ran to succour him; who enquiring the Cause, they perceived the <hi>Lamb</hi> to have played the <hi>Lyon:</hi> and searching his Mouth, they found him to have a very fair Tooth in the Fore part thereof: which strange Spectacle, worthily put them all into Admiration: And after a day or two, when the weak Mother had somewhat recovered Strength, they related to her the whole Matter which had hapned; who, what with Grief and Wonder, was so perplexed, as being not able to contain herself w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thin the Limits of Temperate Motherhood, she brake forth into deep Passions.</p>
+            <p>At which time it chanced, that a Venerable old Man (a Doctor of Divinity) lodged in the House, a <hi>Catholick</hi> (as I my self have heard her say) who hearing and seeing what had hapned, and grieving for her Impatience, came in to Visit her, or rather, to Com<g ref="char:EOLhyphen"/>fort and Content her. The Doctor was no sooner entred her Chamber, but she began to
+<pb n="2" facs="tcp:204356:3"/>relate the whole Discourse, as if he had known nothing thereof: which done, the grave Doctor began to use many Spiritual and Comfortable Words; and in the end, uttered (if I may so term it) these Prophetical Speeches: <hi>Be of good Chear</hi> (said he) <hi>your Son is and shall be very well: And concerning his Tooth, assure your self, it doth fore-tell, that he shall Travel further than the Queen hath any Land; and at the length, return again to the unspeak<g ref="char:EOLhyphen"/>able Joy and Comfort of all that love him.</hi>
+            </p>
+            <p>These words of the Doctor were often Rehearsed in the hearing of many (long before his going over the Sea) by his Mother; the Effect of which saying, I leave the Indifferent Reader to consider, whether it be not altogether accomplished, and whether his Glorious Martyrdome, and great Courage in the same, (foreshewed by his Tooth,) was not a com<g ref="char:EOLhyphen"/>fort to all that loved or favoured the Catholick cause; but let us return to our Infant, who until he was two years old, had the same Tooth in his Head; but then he lost it, and it vanished away without pain, trouble, or any advertisement.</p>
+            <p>
+               <hi>And here, endeth the most wonderful, and remarkable History of the Miracle of the Fair Tooth, which doth certainly tend very much to the Comfort and Edification of the Ideots of the</hi> Infallible Church. <hi>But let us proceed, still in the Authors own words.</hi>
+            </p>
+            <p>With no less Admiration may I report unto you his Admirable ripeness and Gravity even in his Infancy, who was never delighted with Childish plays, or any thing that might seem Toyish; No, he would never be inticed to play at any time with like Aged Children, but loved greatly to behold the Heavens; and therefore he usually went in the Evening, to delight himself with the sight of the Skies, bedecked with Stars; And on a time in these his tender years, going forth at night, according to his Custome, this strange Specta<g ref="char:EOLhyphen"/>cle appeared to him in the Air; he saw, as it were, Armed men with Weapons, Killing and Murthering others that were Disarmed, and altogether destitute of like Furniture; and great store of blood, running every where about them: This strange sight, put the Child into a great fear, which caused him to run in hastily to tell his Mother, (being then a Widdow) what he had seen; and she presently went forth with three or four of her Neigh<g ref="char:EOLhyphen"/>bours, who that night had supped with her; and they were all Eye-witnesses of the same Spectacle. Thus much I my self have heard them Report, who also affirmed, that my self was then present; but being very young, I cannot remember it. This happened in the beginning of our Chiefest persecution, not long before the glorious death of Blessed Father <hi>Campian,</hi> and the rest.</p>
+            <p>Our Young Saint growing further in years, he became Page to a Catholick Gentleman, one Mr <hi>Richard Sherwood;</hi> This Gentleman at first, had a watchfull eye over his new Ser<g ref="char:EOLhyphen"/>vant in all his Actions, because he knew all his Friends to be earnest Protestants: but in short time he found him so faithfull, that he began to deal with him touching Religion, and the Salvation of his Soul; and perceiving him Tractable, capable and willing to hear, he so far instructed him, that at length the youth earnestly desired to be Reconciled, and made a Member of the Catholick Church, from which he promised he would never serve. Af<g ref="char:EOLhyphen"/>ter a while, his Master being Resolved to forsake the Realm, and Turn Monk, he deter<g ref="char:EOLhyphen"/>mined to place his man (now about Seventeen years of age) with some one of his Ac<g ref="char:EOLhyphen"/>quaintance, lest perhaps he should return, not without some danger of his Soul, to his own Friends, who were Protestants.</p>
+            <p>This his purpose he disclosed to his man <hi>Edmund,</hi> with good Counsel and perswasi<g ref="char:EOLhyphen"/>on, to remain firm in his Faith, and Religion: But when our Youth understood his Masters Resolution, he was much disturb'd at it, and desir'd his Master he might go with him; the good Gentleman, to try his Ability, told him, <hi>It was impossible;</hi> to which, <hi>Edmund</hi> replyed, <hi>Alas! and is it impossible! shall my Native Soyl restrain free-wil, or home-made Laws alter devout Resolutions? am I not young? cannot I study? May I not in time get what you have gotten? Learning for a Schollar, yea Virtue for a Priest perhaps, and so obtain that for which you are now ready.</hi> His master unwilling to discourage him any longer, took him with him; and setled him at <hi>Rheims</hi> under Cardinal <hi>Allen.</hi>
+            </p>
+            <p>Afterwards coming to twenty three years of Age, he was made Priest; where he imprinted in the Hearts of his Collegian Fellows, an everlasting memory of him, for his extraordinary pious and comely behaviour in Celebrating Mass at the Altar; and though he was by Nature affable and merry; yet before and after Mass, he was sel<g ref="char:EOLhyphen"/>dom or never seen, for the space of one whole hour to laugh, play, or spend any time in talk.</p>
+            <p>Long had not our Vertuous Priest been Invested with Holy Orders, but that Ap<g ref="char:EOLhyphen"/>postolical faculties were given him; and so with some others he was sent for <hi>England,</hi> and Landed at <hi>Whitby</hi> in <hi>Yorkshire,</hi> and from thence came to <hi>London;</hi> and the same night on which he came to the City, he repaired to a Catholicks House in <hi>Holbourn,</hi> where
+<pb n="3" facs="tcp:204356:3"/>he found a very Virtuous and godly Priest: after some common Discourse, they began to Confer touching the Offering of the dreadful, Sacrifice, where they might serve God together the next day, and say Mass; at length, they concluded to say their Mattins together, and Celebrate the next morning at Mr. <hi>Swithen Wells</hi> House in up<g ref="char:EOLhyphen"/>per <hi>Holbourn;</hi> and being come together accordingly, behold, when he was even at the Consecration of the holy Body and Blood of our Saviour, one Mr. <hi>Topclift,</hi> with other Officers knockt at the Dore; which sudden noise struck fear and Terrour into the Hearts of all that were present; but the good Priests, with the rest, arose from their Devo<g ref="char:EOLhyphen"/>tions, and drawing out their Weapons (as St. <hi>Peter</hi> did to defend our Saviour) were rea<g ref="char:EOLhyphen"/>dy at the Chamber dore when their Enemies had burst it open, bidding them stand, not suffering any one of them to enter till the Priest had finished his Mass; at which time, two that were at Mass, seeing the Officers would not stay, one of them threw Mr. <hi>Topclift</hi> down Stairs, while Mr. <hi>Plasden</hi> having appointed the rest to keep the Dore, went to the Altar and bad the good Priest go forward without fear, and finish his Mass, to the greater glory of God and honour of all his Saints: and after return<g ref="char:EOLunhyphen"/>ning to the door, he espied Mr. <hi>Topclift</hi> hastning up stairs with a broken head, and fearing he would have raised the whole street for help, the more to pacify him, seeing no means to escape, he told him that he should come in presently, and they would all yeild, which they did accordingly; for no sooner was the Mass ended, but he with the rest rushed in, and took Mr. <hi>Gennings</hi> and all the rest, Men and Women, with Church-stuff, Books, and Beads, and all they could find; They carried them all to <hi>Newgate,</hi> and were not ashamed to lead Mr. <hi>Gennings</hi> through the streets in his Priest<g ref="char:EOLhyphen"/>ly Vestments, to make him a laughing-stock to the beholders; and he, with about ten more were Commited close Prisoners to <hi>Newgate;</hi> and a while after were Indicted and Arraigned at the <hi>Old Bayly</hi> for High Treason; and here the Judges laughing at Mr. <hi>Gennings</hi> told him, he was more fit in his Priestly Attire to be presented to the Queen, for a jester, than to a <hi>Nun</hi> for a Confessor; moreover, they most slanderously affir<g ref="char:EOLhyphen"/>med, that it was Impossible for him (being a young man fair and fine, and as they termed him, frolick) not to break the Bands of Vowed Chastity, by being naught with those Beautiful young Women, with whom he had daily Converse; but he took all things patiently, knowing he Merited very highly thereby. To be brief, the Verdict was given up, and the Priests were all found guilty of High Trason, for returning in<g ref="char:EOLhyphen"/>to the Realm, contrary to the Law provided in that behalf; and Sentence of Death was pronounced against them, that they should all die at <hi>Tyburn,</hi> except Mr. <hi>Gennings</hi> and Mr. <hi>Wells,</hi> who were both to be Executed before Mr. <hi>Wells</hi> his own dore in <hi>Grays-Inn-fields.</hi> Then the Judges began to perswade them being Condemned) by all means pos<g ref="char:EOLhyphen"/>sible they could, to conform themselves to the present Protestant Religion, by going to their Churches and Service; but they affirmed stoutly, they would live and die in the <hi>Roman</hi> and Catholick Doctrine.</p>
+            <p>When the happy hour of his passion was come, the rest of the Prisoners Executed at <hi>Tyburn,</hi> and he was brought in a sled to the place appointed and being put upon the Ladder, many questions were asked him, he was a while after turned of the Ladder, and in a little time cut down; he was so sensible (<hi>if it be not a lie</hi>) when he was dismem<g ref="char:EOLhyphen"/>bred, that he cryed, <hi>Oh it smarts.</hi> Which Mr <hi>Wells</hi> hearing, replyed thus, <hi>Alas sweet Soul, thy pain is great indeed, but almost past: pray for me now most Holy Saint, that mine may come.</hi> He being ript up, and his bowels cast into the Fire, if we may believe the Hangman himself, and Hundreds of People standing by), the blessed Martyr uttered (his heart being in the Executioners hand) these words, <hi>Sancte Gregori ora pro me,</hi> that is, <hi>Ho<g ref="char:EOLhyphen"/>ly Gregory pray for me;</hi> which the Hangman hearing, with open mouth swore this damna<g ref="char:EOLhyphen"/>ble Oath, Gods, <hi>Wounds, see his heart is in my hand, and Gregory in his mouth. Oh Egregious Papist:</hi> Thus the afflicted Martyr, even to the last of his Torments, cryed for the Ayd and succour of Saints; and especially of Saint <hi>Gregory,</hi> his devoted Patron, and our Countreys Apostle; that by his Intercession, he might pass the sharpness of his Torment: but now be<g ref="char:EOLhyphen"/>hold a Miracle; among many Protestants that came to view the body when it was quar<g ref="char:EOLhyphen"/>tered, there were many Catholicks also; and among the rest, a Virgin who had wholly De<g ref="char:EOLhyphen"/>dicated her self to the service of God; she being desirous to be partaker of so great a merit, and to get (if possible) some little part or parcel of his sacred Flesh, or Guiltless Blood poured on the Ground, to keep as a perpetual Relique, for her private Devotion, used all diligence to draw near to the Gibbet, that she might obtain her desire; but see<g ref="char:EOLhyphen"/>ing her self frustrated of all in that kind, through the Press of People, and also through the danger of being discovered; Devotion being her Guide, she followed his Quar<g ref="char:EOLhyphen"/>ters, as they were drawn back again to be boyled at <hi>New-gate,</hi> hoping there at last to touch
+<pb n="4" facs="tcp:204356:4"/>them, before they were dispersed to Hang on the Gates of the City, being as it were in de<g ref="char:EOLhyphen"/>spair of any greater benefit, and coming to the Prison, the people Flocked together to behold t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e fresh bleeding Quarters according to their wonted Custome, when any such thing is to be seen, before they were carryed up to boy<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g, desiring the Executioner to shew them peice by peice, that so their Curiosity might give Censure as they said, whether he was fat or lean, black or fair to satisfy their request: by Chance, <hi>Bull</hi> the Hangman took up one of his fore quarters by the Arm, which when he had shewed the people, he Contemptuously flung it down into the basket again where it lay, and took up the Head that they might see his face; an <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as God would have it, both Arm &amp; Hand of the foresaid Quarter hung out over the sid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of the basket, which the said Virgin espying drew near to touch it; and approaching w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ily with fear lest any should take notice of her so doing, having a determination and vehe<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esire to touch his <hi>Holy and Anointed Thumb,</hi> which then appeared next her, if it were possi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le, and because it was a part of his hand which so often had Elevated the Immacu<g ref="char:EOLhyphen"/>late body of our Blessed Saviour Jesus Christ, she purposed not to leave it unhandled for her <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>l farewell: this her determination and purpose she presently performed, and taking the Thumb in her han<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, by the instinct of Almighty God, she gave it a little pull only, to shew her love &amp; desire of having it: the Sequel was Miraculous, for behold, she not imagining any such matter would have followed, by the Divine power, the Thumb was Instantly loosed from his hand; and being separated, she carried it away safely, both flesh, skin, and bone, without sight of any, to her great Joy and Admiration. O the strange and miraculous separation! O Benefit, past all requital! the <hi>Thumb</hi> of a man newly Dead and Quartered, to depart from the hand, as it were <hi>Sua sponte</hi> of its own accord, to pleasure a friend that loved him so entirely, and that in the midst of so many hundreds of People of a different Religion, yet not espied by any; <hi>No not by Squire Bull the Hang<g ref="char:EOLhyphen"/>man, who never mist the Thumb from that day to this.</hi> But the strangeness thereof I leave to your pious considerations, confessing my self altogether unworthy, and not any way able to explicate the worthiness of the same. This young Gentlewoman, presently up<g ref="char:EOLhyphen"/>on this miraculous Purchase, having fully resolved to forsake the Vanities of this World, and especially this our troublesome Country, went not long after beyond the Seas, carrying with her this precious Relique, which she much esteemed; There she Devo<g ref="char:EOLhyphen"/>ted her self to St. <hi>Augustine,</hi> and is since become a Venerable Nun, of the same Order. Afterward she hearing of this Martyrs own Brother to live in the Seminary at <hi>Doway.</hi> sent him for a token a little piece of the same Thumb, inclosed in a Letter written with hee own hand, protesting the Verity of all the aforesaid Narration.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at St. <hi>Omers</hi> by <hi>Charles Boscard</hi> with this Approbation in Latin, but truly Eng<g ref="char:EOLhyphen"/>lished.</p>
+         </div>
+         <div type="approbation">
+            <p>The Life of this Saint, and most constant Martyr and Priest, (whose Sufferings did much encrease the Glory of his Combat, which are truly related in this little Bock) is worthy to be Printed, that these who behold his End, may imitate the Faith of his Conversation.</p>
+            <closer>
+               <dateline>St. Omers, <date>
+                     <hi>Febr. 10.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>John Redmayn</hi> S. <hi>Th. D.</hi> Licenser of Books.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <p>
+               <hi>BƲt a few Words of this our Blessed Martyr: The Vision he saw, did most truly represent the Practice of that Bloody Church of</hi> Rome, <hi>in destroying the Innocent and Ʋnarmed: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd their drawing their Swords to defend their Priest in saying Mass, (by the Example of St.</hi> Peter) <hi>sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ws, that they had forgot our Saviours Command to St.</hi> Peter <hi>thereupon, to put up his Sword into its Sheath, since most of the Murders, Massacres, Desolations, Fires, Wars, and Devastations, that have been in</hi> Europe, <hi>since that</hi> Man of Sin <hi>appeared in the World, have been either contrived or promoted by the Pope, and his cursed Instruments: And if God Al<g ref="char:EOLhyphen"/>mighty had not wonderfully prevented it,</hi> Coleman's <hi>Reformation would ere this, have made us s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nsibly experience the Truth hereof. But for the Thumb, what shall we say? The Author is asto<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ed at it, and so may all that read it, to think of the Impudence of the Man, who durst th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s publickly affront the Ʋnderstanding of Mankind, to pub<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ish and impose such false and mon<g ref="char:EOLhyphen"/>strous Ʋntruths and Absurdities upon the Minds of Men; that certainly, none but a Papist, can read it without blushing; and is fit only to be answered in the Words of the Prophet,</hi> What shall be given unto thee? or, What shall be done unto thee, thou false Tongue, <hi>and Pen?</hi>
+            </p>
+            <p>
+               <hi>To conclude; Let us think no Cost, no Pains, nay, not every drop of Blood in our Bodies, ill spent, to prevent this false, this bloody, this sensless and ridiculous Religion, ever to enslave us, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d our Posterity: And let us all Conclude with that Prayer in the Old Liturgy;</hi> From the <hi>Pope</hi> of <hi>Rome,</hi> and all his detestable Enormities, Good Lord deliver us.</p>
+         </div>
+         <closer>AMEN.</closer>
+      </back>
+   </text>
+</TEI>
